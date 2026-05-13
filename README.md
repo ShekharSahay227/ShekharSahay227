@@ -1,6 +1,6 @@
 # Hi, I'm Shekhar Sahay 👋
 
-I am an IT professional (Senior QA/UAT Lead and Business Systems Analyst) with 14+ years of experience in Banking and Finance, Maeket Risk and Liquidity Risk Areas. I am currently pursuing an MBA with a Concentration in Business Analytics at the University of Connecticut. I enjoy combining business knowledge, analytics and technology to solve real-world problems and create data-driven solutions.
+I am an IT professional (Senior QA/UAT Lead and Business Systems Analyst) with 14+ years of experience in Banking and Finance, Market Risk and Liquidity Risk Areas. I am currently pursuing an MBA with a Concentration in Business Analytics at the University of Connecticut. I enjoy combining business knowledge, analytics and technology to solve real-world problems and create data-driven solutions.
 
 ---
 
