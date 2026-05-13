@@ -2,8 +2,13 @@
 
 I am currently pursuing an MBA with a Concentration in Business Analytics at the University of Connecticut. I enjoy combining business knowledge, analytics and technology to solve real-world problems and create data-driven solutions.
 
+---
+
 ## 💼 Professional Background
-Currently working as a Senior QA/UAT Lead and Business Systems Analyst with 14+ years of experience in Banking and Financial Services.
+
+I am currently working as a Senior QA/UAT Lead and Business Systems Analyst with more than 14 years of experience in Banking and Financial Services. My experience spans across Wealth Management, Capital Markets, Trading Platforms and Liquidity Risk systems, where I have worked on large-scale transformation and modernization initiatives. Over the years, I have contributed to projects associated with different organizations. My work primarily focuses on QA & UAT Leadership, Business Systems Analysis, Data Validation and end-to-end testing across modern and legacy financial platforms. I also enjoy leveraging analytics, SQL, Python and emerging AI technologies to improve business processes, reporting and decision-making capabilities.
+
+--- 
 
 ## 🎓 Current Education
 MBA with concentration in Business Analytics
