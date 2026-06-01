@@ -14,10 +14,10 @@ My experience spans across Wealth Management, Capital Markets, Trading Platforms
 MBA with concentration in Business Analytics from University of Connecticut
 Bachelor of Engineering in Electrical and Electronics Engineering from RGPV, India
 
-## 📚 Skills I'm Learning This Semester
-- Data Science using Python
+## 📚 Skills I'm Learning at present
 - Python for Data Analytics and Automation
 - AI Workflow Development and Prompt Engineering
+- Advanced AI techniques
 
 ## 🛠️ Technical Skills
 - Python, SQL, DB2, Informix
